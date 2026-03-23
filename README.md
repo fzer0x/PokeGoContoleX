@@ -1,15 +1,22 @@
-# PokeGoControl
+# LocationController
 
-PokeGoControle is an Xposed module designed for location simulation, specifically tailored for Pokémon GO. It provides a joystick overlay and various location-related settings to enhance the simulation experience.
+LocationController is an Xposed module designed for location simulation. It provides a joystick overlay and various location-related settings to enhance the simulation experience.
 
 ## Features
 
-- **Joystick Overlay:** Navigate in-real time with a customizable joystick.
+- **Joystick Overlay:** Navigate in real-time with a customizable joystick.
 - **Location Simulation:** Mock your GPS location with precision.
+- **Advanced Parameters:** Simulate:
+    - Accuracy & Vertical Accuracy
+    - Altitude
+    - Speed & Speed Accuracy
+    - Mean Sea Level & Accuracy
+- **Randomization:** Add a randomization radius to your location for a more natural movement profile.
 - **Favorites:** Save and manage your favorite locations for quick teleportation.
 - **Customizable UI:** 
     - Adjust joystick and minimap transparency (alpha).
     - Configurable joystick speed.
+    - Persistent joystick position.
 
 ## Requirements
 
@@ -19,23 +26,23 @@ PokeGoControle is an Xposed module designed for location simulation, specificall
 
 ## Installation
 
-1. Install the PokeGoControle APK.
+1. Install the LocationController APK.
 2. Open your Xposed Manager (e.g., LSPosed).
-3. Enable the **PokeGoControle** module.
-4. Ensure **Pokémon GO** is selected in the module's scope.
+3. Enable the **LocationController** module.
+4. Select the target apps in the module's scope.
 5. Reboot your device (or force stop the target app if using LSPosed).
-6. Open PokeGoControle and grant the necessary permissions (Overlay, Location).
+6. Open LocationController and grant the necessary permissions (Overlay, Location).
 
 ## Usage
 
 1. Open the app and set your desired starting location on the map.
 2. Configure your simulation settings (Speed, Accuracy, etc.).
 3. Start the service to show the joystick overlay.
-4. Open Pokémon GO and use the joystick to move.
+4. Open your target app and use the joystick to move.
 
 ## Disclaimer
 
-This tool is for educational and development purposes only. Using third-party tools with Pokémon GO may violate their Terms of Service and could lead to account suspension or banning. Use at your own risk.
+This tool is for educational and development purposes only. Use at your own risk.
 
 ## License
 
