@@ -36,11 +36,6 @@ Location Joystick is an Xposed module designed for location simulation. It provi
 
 - **Joystick Overlay:** Navigate in real-time with a customizable joystick.
 - **Location Simulation:** Mock your GPS location with precision.
-- **Advanced Parameters:** Simulate:
-    - Accuracy & Vertical Accuracy
-    - Altitude
-    - Speed & Speed Accuracy
-    - Mean Sea Level & Accuracy
 - **GNSS Mocking:** Full GNSS status simulation (Satellite count, SVID, C/N0, etc.) to bypass advanced detection.
 - **Randomization:** Add a randomization radius to your location for a more natural movement profile.
 - **Favorites:** Save and manage your favorite locations for quick teleportation.
