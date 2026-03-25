@@ -5,7 +5,7 @@ Location Joystick is an Xposed module designed for location simulation. It provi
 ![Screenshot](https://github.com/fzer0x/PokeGoContoleX/blob/main/screenshot.jpg?raw=true)
 
 ## Changelog
-### 2.0.2
+### 2.0.3
 - FIX: Keyboard and Back button now work correctly in all apps while the overlay is running
 - Improved overlay focus management (only requests focus when text input is active)
 
