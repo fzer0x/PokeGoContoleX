@@ -5,6 +5,14 @@ Location Joystick is an Xposed module designed for location simulation. It provi
 ![Screenshot](https://github.com/fzer0x/PokeGoContoleX/blob/main/screenshot.jpg?raw=true)
 
 ## Changelog
+
+### 2.1.1
+- Fix "Baidu" Mini Map transparency issue
+- Fix other "Baidu Maps" issues
+- improve update process
+
+⚠️First start with Baidu Maps need in the mini map up to 2 minutes, dont touch it, wait until you see the map
+
 ### 2.1.0
 - **Baidu Maps Integration:** Added Baidu Maps as a secondary map provider for improved coverage in certain regions.
 - **Provider Selection:** Easily toggle between OSMroid and Baidu Maps in the app settings.
