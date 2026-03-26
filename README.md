@@ -5,6 +5,12 @@ Location Joystick is an Xposed module designed for location simulation. It provi
 ![Screenshot](https://github.com/fzer0x/PokeGoContoleX/blob/main/screenshot.jpg?raw=true)
 
 ## Changelog
+### 2.2.0
+- **Stealth:** 
+    - Added some Stealth & Anti-Detection features
+- **Performance Optimization:** Optimized Xposed hook evaluation. Reduced overhead during app launches and improved preference loading speed.
+- **Skins:** Added new skins for the overlay joystick.
+- Bug Fixes
 
 ### 2.1.1
 - Fix "Baidu" Mini Map transparency issue
