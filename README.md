@@ -35,7 +35,7 @@ Location Joystick is an Xposed module designed for location simulation. It provi
 - **Android:** 10+ (Min SDK 30)
 - **Root:** Required for Xposed Framework.
 - **Xposed Framework:** LSPosed is recommended.
-- [NEW] No Root/Xposed functionality (Mock Location)
+- **[NEW] No Root/Xposed functionality (Mock Location)**
 
 ## Installation & LSPosed Scope
 
