@@ -85,7 +85,7 @@ Location Joystick 是一个用于位置模拟的 Xposed 模块。它提供了一
 
 </div>
 
-# 最新版本: https://github.com/fzer0x/LocationJoystick-Premium/releases
+# 最新版本: https://github.com/fzer0x/LocationJoystick_NEW/releases
 
 ![截图](https://github.com/fzer0x/PokeGoContoleX/blob/main/screenshot2.jpg?raw=true)
 
